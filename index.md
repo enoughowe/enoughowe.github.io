@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img align="right" src="assets/images/lsh-shenghuozhao2.JPG" width="30%" />
+<img src="assets/images/lsh-shenghuozhao2.JPG" class="floatpic" width="30%" />
 
 Here is **Li Shuhao (李书豪)**.
 
