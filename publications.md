@@ -42,9 +42,9 @@ Based on the two dimensions of innovative thinking, research and development str
 
   <br>
 
----
+<!-- --- -->
 
-## <!--Early Project-->
+<!-- ## Early Project-->
 
 <!--[Proposal: Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.-->
 
