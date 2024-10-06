@@ -8,9 +8,9 @@ layout: page
 
 Here is **Li Shuhao (李书豪)**.
 
-I am a Ph.D candidate in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI and SIGKDD Undergraduate Scholars**.
+I am a Ph.D candidate in the School of Journalism & Communication at Nanjing University, advised by [Prof. Zhou Kai](https://jc.nju.edu.cn/info/1641/2271). I graduated from the Department of Film & TV Art at Central Academy of Drama, majoring in Drama and Film Studies.
+During my master's degree, I did an internship at Monkey Dirty Film Studios. After graduation, I took a teaching position at Communication University of China, Nanjing (aka [CUCN](https://www.cucn.edu.cn/#/Home)).
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
 
 ---
 
