@@ -19,9 +19,15 @@ title: Publications
 ## Textbook Publications
 
 <img align="right" src="assets/images/textbook-cover.JPG" style="zoom:10%;" />
-- [PROGRAM FORMATS: Creativity and Developing.](https://book.douban.com/subject/35803694/)
 
-s of the universe, IoE also integrates new IoXs into its framework. **Internet of Nano Things (IoNT)**, for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. **Internet of People and Senses (IoPS)**, as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We aim to design and implement new intelligent communication techniques for the **Internet of Everything**.
+- [PROGRAM FORMATS: Creativity and Developing.](https://book.douban.com/subject/35803694/) Published by Communication University of China Publisher, 2022-3.
+
+  <br>
+
+Explore the creative devolping concepts, storytelling rules and production practices of program formats.<br>Focusing on the core elements of “audience”, “creativity”, “narrative” and “production”.<br>Uncover the whole process of program format production from zero to one, from concept to law, from theory to practice.<br>
+Based on the two dimensions of innovative thinking, research and development strategy, and storytelling strategy of the program, “Program Format Creativity and Planning” deeply restores the full set of industrial process of program format creativity and content production, and comprehensively introduces the definition of program format, audience survey of program format, creative thinking method of program format, law of narrative of program format, and how to write the text of the program format and formulate the handbook of the program format, etc., and reveals the secret of the whole process of program format production from the perspective of the first-line creators. From the perspective of the industry's first-line creators, the book reveals the creative production process of film and television program formats from scratch, from coarse to fine, and from virtual to real.<br>Program Format Creativity and Planning” selects a number of phenomenal program formats, in-depth analysis of program format creation methods and principles, and carefully configure dozens of work templates, so that readers can quickly master the creation of program format methods, into the state of practice; can be used as a professional textbook for film, television, and media, but also as a media practitioners and enthusiasts of the study book.
+
+Translated with www.DeepL.com/Translator (free version)
 
 <br>
 
@@ -29,7 +35,7 @@ s of the universe, IoE also integrates new IoXs into its framework. **Internet o
 
 ## Degree Thesis
 
-- The Research on Creative Thinking and Method of Phenomenal Format. <br>**Li Shuhao** (Advisor: Tao Tao). 
+- The Research on Creative Thinking and Method of Phenomenal Format. <br>**Li Shuhao** (Advisor: Tao Tao). Master's Thesis.
 
 - [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
 
