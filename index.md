@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="assets/images/lsh-shenghuozhao2.JPG" class="floatpic" width="300" height="300" >
+<!-- <img src="assets/images/lsh-shenghuozhao2.JPG" class="floatpic" width="300" height="300" > -->
 
 Here is **Li Shuhao**.
 
@@ -16,12 +16,19 @@ Why is here？
 
 ---
 
+# About Me
+
+Here is **Li Shuhao**.
+
+I am a Ph.D candidate in School of Journalism & Communication at Nanjing University, advised by Prof.Zhou Kai. I graduated frome the Department of Film & TV Art at Central Academey of Drama, majoring in Drama and Film Studies.
+
+---
+
 ## Research Interests
 
 - Film Industry
 - Sports Communication
 
-为什么会这样？
 ---
 
 ## News and Updates
