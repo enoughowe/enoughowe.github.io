@@ -6,7 +6,7 @@ layout: page
 
 <!-- ![生活照](https://github.com/enoughowe/enoughowe.github.io/raw/main/assets/images/lsh-shenghuozhao2.JPG) -->
 
-<img align="right" src="assets/images/lsh-shenghuozhao2.JPG" alt="生活照2" width=“100px” />
+<img align="right" src="assets/images/lsh-shenghuozhao2.JPG" alt="生活照2" width=“18%” />
 
 ![生活照](/assets/images/lsh-shenghuozhao2.JPG)
 
