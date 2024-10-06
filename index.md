@@ -3,7 +3,8 @@ layout: page
 ---
 
 # About Me
-<img src="assets/images/lsh-shenghuozhao2.JPG" class="floatpic" width="300" height="300" />
+
+<img src="assets/images/lsh-shenghuozhao2.JPG" class="floatpic" width="300" height="300" >
 
 Here is **Li Shuhao (李书豪)**.
 
@@ -23,7 +24,7 @@ During my master's degree, I did an internship at Monkey Dirty Film Studios. Aft
 
 ## News and Updates
 
-- **September 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
+- **September 2024**：Very excited to start be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
 - **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
 - **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
 - **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
