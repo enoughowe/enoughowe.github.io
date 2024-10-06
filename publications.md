@@ -23,7 +23,7 @@ title: Publications
 
 ## Textbook Publications
 
-<br><img align="right" src=".\assets\images\textbook-cover.JPG" class="floatpic" width="20%" />
+<br><img align="right" src=".\assets\images\textbook-cover.JPG" width="20%" />
 
 - [PROGRAM FORMATS: Creativity and Developing.](https://book.douban.com/subject/35803694/) Published by Communication University of China Publisher, 2022-3.
 
