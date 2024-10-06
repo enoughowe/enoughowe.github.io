@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-![生活照](/enoughowe.github.io/caihanlin.JPG)
+![[/enoughowe.github.io/caihanlin.JPG]]
 Here is **Li Shuhao (李书豪)**.
 
 I am a Ph.D candidate in the School of Journalism & Communication at Nanjing University, advised by [Prof. Zhou Kai](https://jc.nju.edu.cn/info/1641/2271.htm). I graduated from the Department of Film & TV Art at Central Academy of Drama, majoring in Drama and Film Studies.
