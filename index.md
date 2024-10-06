@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-![生活照](https://github.com/enoughowe/enoughowe.github.io/raw/main/lsh-shenghuozhao1.JPG)
+![生活照](https://github.com/enoughowe/enoughowe.github.io/raw/main/assets/images/lsh-shenghuozhao2.JPG)
 
 <!-- <img align="right" src="./assets/images/lsh-shenghuozhao2.JPG" alt="生活照2" width=18% /> -->
 
