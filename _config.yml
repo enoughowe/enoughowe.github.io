@@ -16,11 +16,11 @@ owner:
   github: enoughowe
   # linkedin: 
   #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  #bilibili: 594030035
+  bilibili: 13054401
   #researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   #zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
-  # instagram: lancecai2002
+  instagram: soho_enough
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -44,10 +44,10 @@ links:
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
-  - title: Teams
-    url: /teams/
+  #- title: Blogs
+   # url: /blogs/
+  #- title: Teams
+   # url: /teams/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
