@@ -5,6 +5,7 @@ layout: page
 # About Me
 
 # ![生活照](https://github.com/enoughowe/enoughowe.github.io/raw/main/lsh-shenghuozhao1.JPG)
+![生活照2](/assets/images/lsh-shenghuozhao2.jpg)
 
 Here is **Li Shuhao (李书豪)**.
 
