@@ -4,26 +4,13 @@ layout: page
 
 # About Me
 
-<!-- <img src="assets/images/lsh-shenghuozhao2.JPG" class="floatpic" width="300" height="300" > -->
+<img src="assets/images/lsh-shenghuozhao2.JPG" class="floatpic" width="300" height="300" >
 
 Here is **Li Shuhao**.
 
 I am a Ph.D candidate in the School of Journalism & Communication at Nanjing University, advised by [Prof. Zhou Kai](https://jc.nju.edu.cn/info/1641/2271.htm). I graduated from the Department of Film & TV Art at Central Academy of Drama, majoring in Drama and Film Studies.
 
 During my master's degree, I did an internship at Monkey Dirty Film Studios. After graduation, I took a teaching position at Communication University of China, Nanjing (aka [CUCN](https://www.cucn.edu.cn/#/Home)).
-
-Why is here？
-
----
-
-# About Me
-
-
-Here is **Li Shuhao**.
-
-
-I am a Ph.D candidate in School of Journalism & Communication at Nanjing University, advised by Prof.Zhou Kai. I graduated frome the Department of Film & TV Art at Central Academey of Drama, majoring in Drama and Film Studies.
-
 
 ---
 
@@ -37,11 +24,7 @@ I am a Ph.D candidate in School of Journalism & Communication at Nanjing Univers
 ## News and Updates
 
 - **September 2024**：Very excited to start my Ph.D career at NJU!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **September 2021**：Begin My teaching career in CUCN.
 
 <!--
 <br>
