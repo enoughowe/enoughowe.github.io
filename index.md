@@ -6,7 +6,7 @@ layout: page
 
 <img src="assets/images/lsh-shenghuozhao2.JPG" class="floatpic" width="300" height="300" >
 
-Here is **Li Shuhao (李书豪)**.
+Here is **Li Shuhao**.
 
 I am a Ph.D candidate in the School of Journalism & Communication at Nanjing University, advised by [Prof. Zhou Kai](https://jc.nju.edu.cn/info/1641/2271.htm). I graduated from the Department of Film & TV Art at Central Academy of Drama, majoring in Drama and Film Studies.
 
