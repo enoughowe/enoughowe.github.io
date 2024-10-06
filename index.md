@@ -6,7 +6,7 @@ layout: page
 
 <!-- ![生活照](https://github.com/enoughowe/enoughowe.github.io/raw/main/lsh-shenghuozhao1.JPG) -->
 
-<img align="right" src="./assets/images/lsh-shenghuozhao2.JPG" alt="生活照2" width=30%/>
+<img align="right" src="./assets/images/lsh-shenghuozhao2.JPG" alt="生活照2" width=30% />
 
 Here is **Li Shuhao (李书豪)**.
 
