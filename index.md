@@ -8,7 +8,7 @@ layout: page
 
 <img align="right" src="assets/images/lsh-shenghuozhao2.JPG" alt="生活照2" width=18% />
 
-![生活照#18%](assets/images/lsh-shenghuozhao2.JPG)
+![生活照](assets/images/lsh-shenghuozhao2.JPG#pic_right)
 
 Here is **Li Shuhao (李书豪)**.
 
