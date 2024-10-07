@@ -6,42 +6,15 @@ title: Teaching
 
 ## At CUCN
 
-- **Film & TV Distribution and Marketing**
-- As a youth from southern Fujian (Hokkien), entrepreneurial spirit runs in my family's and my own bones. From a young age, we were instilled with the belief that one must become their own "boss" and setup their own business. My aspiration is to become a serial entrepreneur.<br>
+- **Distribution and Marketing Film & TV**：for junior students of Film Studies.<br>
+The course not only focuses on teaching the technical methods of film distribution and marketing, but more importantly, it integrates the socialist core values and the Chinese dream in the classroom, guiding students to establish a correct outlook on life and values in practice.
+<br><br>
+- **Producing Management of Film & TV**： for junior students of Film Studies.<br>
+The course aims to provide students with an in-depth understanding of the operation of the film and television production industry, and through the combination of theory and practice, to train them to become film and television industry talents with professional knowledge and practical ability in production management. On the basis of having mastered the basic theories and knowledge of production management, this course guides students to establish the correct three views and business consciousness by analyzing business cases in Chinese and foreign film and TV drama markets.<br><br>
+- **Developing and Production of Short Film**：for junior students of Cultural Industry Management.<br>
+The course aims to develop students' creative ability and practical skills in short feature films and short documentary films. The course is divided into two parts, focusing on the basic theories, filming methods and practical operations of short feature films and short documentaries respectively. Through theoretical learning and practical training, students will be able to master the ability of transforming from words to images and complete relatively mature short film works.<br><br>
 
----
-
-## OpenIoT Team
-
-During undergraduate, my two roommates and I co-founded a tech group called OpenIoT. With an entrepreneurial spirit in technology, we participated in numerous innovation and entrepreneurship competitions. As of 2024, the OpenIoT team has grown to include 28 official members and has accumulated a total of six national-level competition awards and over **$20000 funding**.<br>
-
-## Team News
-
-- **Jan 2024：**Our team won the Finalist Award (Top 3%) in China International College Students’ Innovation Competition.
-- **Sep 2023：**Our work [DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU (in Chinese)](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Our team won the Best Technology Award (Top 1%) in National Youth Science Innovation Project Competition.
-- **June 2023：**Our team won a national undergraduate research training grant (about $3000).
-- **May 2023：**If you are interested in the IoT, robotics, or AIGC, welcome to [join us!](https://fzuiot.site/english/)<br>
-
----
-
-## Our Fundings
-
-- Project: DefenderIoT — Leading the New Generation of Industrial Inspection<br>**Funding $2000** (Grant No. 20230357)<br>China International College Students’ Innovation Competition Award<br>Project Leader & Product Manager (2024)<br><br>
-- Project: Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
-- Project: Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
-
----
-
-## Team Members
-
-- **Co-founders:** Hanlin Cai, Jiaqi Hu, Zheng Li
-- **Members @2020:** Linshi Li, Yuchen Fang, Shuying Liu, Xiang Fang, Jiankun Li, Xinguo Wang, Miaolan Zhou, Chaoyue Chen
-- **Members @2021:** Wenzhuo Fan, Jiacheng Huang, Xun Sun, Yujie Jiang, Zhongheng Sun, Yuxuan Zheng, Hongming Chen
-- **Members @2022:** Wenjing Chen, Roubing Yao, Yuxin Luo, Han Huang, Yang Lu, Jiali Su, Yanzhuo Gao, Yuzhuo Shi
-- **Members @2023:** [Join us!](https://fzuiot.site/english/)<br>
-
----
+<!-----
 
 ## Some Group Photos
 
@@ -65,4 +38,4 @@ During undergraduate, my two roommates and I co-founded a tech group called Open
 <div>
 <img src="https://caihanlin.com/images/teams/teams4.jpg">
 </div>
-<br>
+<br>-->
