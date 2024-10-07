@@ -14,7 +14,8 @@ title: Awards
 - **2016**: Awarded the third-class scholarship of The Central Academy of Drama
 - **2015**: National Scholarship / First-class scholarship of The Central Academy of Drama / Outstanding Student Leader / Outstanding Graduate<br>
 <br>
-<!-- ## Competitions<br>
+
+<!--## Competitions<br>
 <br>
 - Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
 - Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
@@ -23,4 +24,4 @@ title: Awards
 - Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
 - June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
 
-<br> -->
+-->
