@@ -23,13 +23,8 @@ title: Publications
 
 ## Textbook Publications
 
-<br> <img align="right" src="/assets/images/textbook-cover.JPG" width="20%" /> 
-<img align="right" src="https://github.com/enoughowe/enoughowe.github.io/raw/main/assets/images/textbook-cover.JPG" width="33%" />
-
-- [PROGRAM FORMATS: Creativity and Developing.](https://book.douban.com/subject/35803694/) Published by Communication University of China Publisher, 2022-3.
-
-  <br>
-
+<br> <img align="right" src="/assets/images/textbook-cover.JPG" width="33%" />
+- [PROGRAM FORMATS: Creativity and Developing.](https://book.douban.com/subject/35803694/) Published by Communication University of China Publisher, 2022-3.<br><br>
 Based on the two dimensions of innovative thinking, research and development strategy, and storytelling strategy of the program, ***PROGRAM FORMATS: Creativity and Developing*** deeply restores the full set of industrial process of program format creativity and content production, and comprehensively introduces the definition of program format, audience survey of program format, creative thinking method of program format, law of narrative of program format, and how to write the text of the program format and formulate the handbook of the program format, etc., and reveals the secret of the whole process of program format production from the perspective of the first-line creators. From the perspective of the industry's first-line creators, the book reveals the creative production process of film and television program formats from scratch, from coarse to fine, and from virtual to real.<br>***PROGRAM FORMATS: Creativity and Developing*** selects a number of phenomenal program formats, in-depth analysis of program format creation methods and principles, and carefully configure dozens of work templates, so that readers can quickly master the creation of program format methods, into the state of practice; can be used as a professional textbook for film, television, and media, but also as a media practitioners and enthusiasts of the study book.
 
 <br>
