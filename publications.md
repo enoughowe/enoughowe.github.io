@@ -6,7 +6,7 @@ title: Publications
 
 <!-- #> (†: equal contribution, ~: corresponding author) -->
 
-## Research Publications<br><br>
+## Research Papers<br><br>
 
 - 重组与错位：综艺节目模式研发的创意方法探析，《中国新闻传播研究：融合传播与社会治理》，2/3，2022.10
 
@@ -21,7 +21,7 @@ title: Publications
 
 ---
 
-## Textbook Publications
+## Textbook
 
 <br> <img align="right" src="/assets/images/textbook-cover.JPG" width="33%" />
 - [PROGRAM FORMATS: Creativity and Developing.](https://book.douban.com/subject/35803694/) Published by Communication University of China Publisher, 2022-3.<br><br>
